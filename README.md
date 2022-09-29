@@ -21,10 +21,19 @@
 - Add Water model to your scene, then attach the "Water" script to the model. 
 - Attach the "WaterShader" to the model.
 - Be sure water model not casting any shadow.
+
+![cast](https://user-images.githubusercontent.com/31192693/193108759-5083279b-9333-47cd-a3ac-8590b4ec0da0.jpg)
+
 - Set the water layer as "Bullets" or another layer which you prefer.
+
+![layer](https://user-images.githubusercontent.com/31192693/193108882-5456f906-b40d-49d6-afa7-32e9f7b3a767.jpg)
+
 - Add a camera then attach the "Custom Depth" script to it. And under the "Render Layer Mask" uncheck the "Bullets" layer. 
+
+![bullets](https://user-images.githubusercontent.com/31192693/193108952-74e18024-8223-4a8a-af56-f84ddbe40ecd.jpg)
+
 - Add a camera then attach the "Custom refraction" script to it. And under the "Render Layer Mask" uncheck the "Bullets" layer. 
-- Select one of the instances (lets say: "WaterSet4") and attach it to the water.
+- Select one of the instances (lets say: "WaterSet4") from "Instances" folder and attach it to the water.
 DONE!
 
 If it seemed too complicated, you can watch the video below.
@@ -38,4 +47,5 @@ Feel free to use for your projects. Credit are welcome but not necessary.
 ## Contact
 You can reach me via pantharay@gmail.com. 
 Have fun!
+
 Emre
