@@ -8,7 +8,7 @@ You can also take a closer look by watching the video below.
 
 [![](https://img.youtube.com/vi/RNBocVNCjE8/0.jpg)](https://www.youtube.com/watch?v=RNBocVNCjE8)
 
-
+If you want to take a more closer look, you can download the demo executable from [HERE](https://drive.google.com/file/d/1oAAqLeNBV0WiVwkvieDa09Q0rsdEdrl_/view?usp=sharing/)
 
 ## What does it offer?
 - Good looking infinite and fully customizable sea with VTF.
