@@ -37,5 +37,5 @@ Feel free to use for your projects. Credit are welcome but not necessary.
 
 ## Contact
 You can reach me via pantharay@gmail.com. 
-Have fun!,
+Have fun!
 Emre
