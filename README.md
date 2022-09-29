@@ -14,5 +14,7 @@
 - Projected Vertex method is not used, it is model/tesellation based.
 
 
-How To Integrate?
-https://youtu.be/HEMd9PwBSAI
+## How To Integrate?
+Please watch the video for information.
+
+[![](https://img.youtube.com/vi/HEMd9PwBSAI/0.jpg)](https://www.youtube.com/watch?v=YHEMd9PwBSAI)
