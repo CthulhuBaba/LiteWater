@@ -15,6 +15,18 @@
 
 
 ## How To Integrate?
-Please watch the video for information.
+
+- Copy the "LiteWaterContent" folder into your project's "content" folder
+- Copy "CustomDepth.cs", "CustomRefraction.cs" and "Water.cs" files, to your project's source/game folder. 
+- Add Water model to your scene, then attach the "Water" script to the model. 
+- Attach the "WaterShader" to the model.
+- Be sure water model not casting any shadow.
+- Set the water layer as "Bullets" or another layer which you prefer.
+- Add a camera then attach the "Custom Depth" script to it. And under the "Render Layer Mask" uncheck the "Bullets" layer. 
+- Add a camera then attach the "Custom refraction" script to it. And under the "Render Layer Mask" uncheck the "Bullets" layer. 
+- Select one of the instances (lets say: "WaterSet4") and attach it to the water.
+DONE!
+
+If it seemed too complicated, you can watch the video below.
 
 [![](https://img.youtube.com/vi/HEMd9PwBSAI/0.jpg)](https://www.youtube.com/watch?v=YHEMd9PwBSAI)
