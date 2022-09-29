@@ -52,7 +52,7 @@ If it seemed too complicated, you can watch the video below.
 
 ## License
 
-Feel free to use for your projects. Credit are welcome but not necessary. 
+Feel free to use for your projects. Credits are welcome but not necessary. 
 
 ## Contact
 You can reach me via pantharay@gmail.com. 
