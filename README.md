@@ -30,3 +30,7 @@ DONE!
 If it seemed too complicated, you can watch the video below.
 
 [![](https://img.youtube.com/vi/HEMd9PwBSAI/0.jpg)](https://www.youtube.com/watch?v=YHEMd9PwBSAI)
+
+## License?
+
+Feel free to use for your projects. Credit are welcome but not necessary. 
