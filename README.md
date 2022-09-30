@@ -52,8 +52,9 @@ If it seemed too complicated, you can watch the video below.
 
 ## License
 
-Feel free to use for your projects. Credits are welcome but not necessary. 
+**Feel free to use for your projects. Credits are welcome but not necessary.**
 
+Note: Some skyboxes were taken from [here.](https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633/) They're free but I still wanted you to know.
 ## Contact
 You can reach me via pantharay@gmail.com. 
 Have fun!
