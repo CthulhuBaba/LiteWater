@@ -1,5 +1,10 @@
 # LiteWater
 ## LiteWater is a simple infinite water template for Flax Engine users.
+```diff
+-IMPORTANT! There is a bug in version 1.6 of the engine that prevents this project from working correctly.
+-So you should use the "Master Branch" (Dailybuild) version of the engine.
+
+```
 Here is a quick preview:
 
 ![watergif](https://user-images.githubusercontent.com/31192693/193070133-55a794c4-e1a5-437b-b634-4554162b85fd.gif)
